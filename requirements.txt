@@ -1,8 +1,3 @@
-accelerate
-diffusers
-huggingface_hub
-omegaconf
-pytorch360convert
-einops
 onnx
 tensorrt
+
