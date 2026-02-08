@@ -10,7 +10,7 @@ This pack is RT-only and exposes exactly four nodes:
 ## Scope
 
 - This pack only builds/loads TensorRT UNet backends.
-- Inference/postprocess nodes are expected from your other Marigold/PaGeR node pack.
+- Inference/postprocess nodes are expected from [Comfyui-marigold-intrinsics-PaGeR](https://github.com/Apache0ne/Comfyui-marigold-intrinsics-PaGeR) node pack.
 - `IIDMODEL` and `PAGERMODEL` payloads are kept compatible so external nodes can run unchanged.
 
 ## Install
